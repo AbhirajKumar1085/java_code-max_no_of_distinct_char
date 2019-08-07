@@ -1,8 +1,7 @@
 # java_code-max_no_of_distinct_char
-import java.io.*;
-import java.util.*;
-public class Sample{ 
-
+	import java.io.*;
+	import java.util.*;
+	public class Sample{ 
 	static final int chars = 256; 
 	static int Substr(String str) 
 	{ 
